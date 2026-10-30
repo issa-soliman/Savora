@@ -488,12 +488,12 @@ flex-shrink: 0;
       font-weight: 600;
     }
 
-    .calories .icon { background-color: oklch(0.954 0.038 75.164);  color: oklch(0.646 0.222 41.116); }
-    .protein  .icon { background-color: oklch(0.932 0.032 255.585); color: oklch(0.546 0.245 262.881); }
-    .carbs    .icon { background-color: oklch(0.973 0.071 103.193); color: oklch(0.681 0.162 75.834); }
+    .calories .icon { background-color: oklch(0.936 0.032 17.717);  color: oklch(0.577 0.245 27.325); }
+    .protein  .icon { background-color: oklch(0.936 0.032 17.717); color: oklch(0.577 0.245 27.325); }
+    .carbs    .icon { background-color: oklch(0.936 0.032 17.717); color: oklch(0.577 0.245 27.325); }
     .fat      .icon { background-color: oklch(0.936 0.032 17.717);  color: oklch(0.577 0.245 27.325); }
-    .fiber    .icon { background-color: oklch(0.962 0.044 156.743); color: oklch(0.627 0.194 149.214); }
-    .sodium   .icon { background-color: oklch(0.948 0.028 342.258); color: oklch(0.592 0.249 0.584); }
+    .fiber    .icon { background-color: oklch(0.936 0.032 17.717); color: oklch(0.577 0.245 27.325); }
+    .sodium   .icon { background-color: oklch(0.936 0.032 17.717); color: oklch(0.577 0.245 27.325); }
   }
 
 
@@ -501,8 +501,8 @@ flex-shrink: 0;
   .tips {
 
     li {
-      border-left: 4px solid oklch(0.828 0.189 84.429);
-      background-color: oklch(0.987 0.026 102.212);
+      border-left: 4px solid oklch(0.637 0.237 25.331);
+      background-color: oklch(0.971 0.013 17.38);
       color: oklch(0.373 0.034 259.733);
     }
 
@@ -510,7 +510,7 @@ flex-shrink: 0;
       flex-shrink: 0;
       width: 20px;
       height: 20px;
-      color: oklch(0.666 0.179 58.318);
+      color: oklch(0.577 0.245 27.325);
     }
   }
 }
